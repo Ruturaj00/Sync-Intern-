@@ -1,5 +1,5 @@
 # Sync-Intern-
 
-Desktop-Notifer
- First task given by Sync interns.
+Desktop-Notifer: 
+ The first task given by Sync interns.
  
